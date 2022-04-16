@@ -1,2 +1,2 @@
 # Pembangkitan_Gelombang
-Dengan Python kita dapat mengetahui karakteristik dari sebuah gelombang berdasarkan karakteristik (parameter) nya seperti amplitudo, frekuensi, periode, fasa, dll. 
+Dengan Python kita dapat mengetahui karakteristik dari sebuah gelombang berdasarkan karakteristik (parameter) nya seperti amplitudo, frekuensi, periode, fasa, dll. Pada bagian ini akan dilakukan pembangkitan gelombang beserta pembentukan gelombang komposit dan gelombang dengan noise. Kemudian akan dilakukan analisis frekuensi dengan Fast Fourier Transform untuk menghilangkan noise tersebut dari gelombang komposit.
